@@ -1,0 +1,3 @@
+nimTitle	depends	depends.html	module compiler/depends		0
+nim	generateDot	depends.html#generateDot,ModuleGraph,AbsoluteFile	proc generateDot(graph: ModuleGraph; project: AbsoluteFile)		97
+nim	gendependPass	depends.html#gendependPass	const gendependPass		113
